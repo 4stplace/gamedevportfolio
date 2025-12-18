@@ -7,3 +7,7 @@ before the game was started, I biult the spaceship in javascript and based it of
 
 ![imagename](https://github.com/4stplace/gamedevportfolio/blob/main/images/LunacyMain.png?raw=true)
 Lunacy was also a fun project. however, one thing that we struggled with was making things one at a time. at this point, the game is still incomplete. I learne a lot from Designing Lunacy, Including how to organize your time.
+
+
+this is my sertificate for this class.
+[certificate](https://github.com/4stplace/gamedevportfolio/blob/main/Forrest%20Jefferson_Game%20Development%20Fundamentals%201_12182025.pdf)

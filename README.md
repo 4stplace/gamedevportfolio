@@ -20,4 +20,5 @@ If you want to know anything else, email me at forrestjefferson85@gmail.com
 "Lunacy" was our final project from Game Development Fundimentals 1, and durring the second semester of my freshmen year, I took Game Development Fundementals II. In this class, we learned how to use Unity, and made a game in Unity.
 
 
-The first game, an individual project, was called "Locked In". It was going to be a point and click game with funny aspects. The player was locked in their own house, and had to find the key to their front door to get out. Unfortunately, I wasn't expirienced enougn in Unity to do things quickly, and I didn't have enough time to work on it.
+The first game, an individual project, was called "Locked In". It was going to be a point and click game with funny aspects. The player was locked in their own house, and had to find the key to their front door to get out. Unfortunately, I wasn't expirienced enougn in Unity to do things quickly, and I didn't have enough time to finish it.
+

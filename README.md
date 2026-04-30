@@ -21,4 +21,4 @@ If you want to know anything else, email me at forrestjefferson85@gmail.com
 
 
 The first game, an individual project, was called "Locked In". It was going to be a point and click game with funny aspects. The player was locked in their own house, and had to find the key to their front door to get out. Unfortunately, I wasn't expirienced enougn in Unity to do things quickly, and I didn't have enough time to finish it.
-
+![LockedIn](https://github.com/4stplace/gamedevportfolio/blob/main/images/Locked_In_Room_Screenshot.png?raw=true)
